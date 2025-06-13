@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "name": "Dragon",
+        "password": "dragon123"
+    },
+    {
+        "id": "2",
+        "name": "Mike",
+        "password": "$2b$10$0YCiepk.ZqtrjpIzK4sZkuC8cgn11g18gfmw7adq27yFXBUDihhzK"
+    },
+    {
+        "id": "3",
+        "name": "El"
+    },
+    {
+        "id": "4",
+        "name": "Jack"
+    },
+    {
+        "id": "6",
+        "name": "Sana",
+        "password": "$2b$10$rgjPJApKj/D9C4Bh86Xupu6KV1KpvuCbiZxhzVg5bn/2.81D/O7Xu"
+    }
+]
